@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tridenc.github.io/sitemap.html.gz
+Sitemap: https://tridenc.github.io/app/sitemap.html.gz
+Sitemap: https://tridenc.github.io/assets/sitemap.html.gz
+Sitemap: https://tridenc.github.io/css/sitemap.html.gz
+Sitemap: https://tridenc.github.io/data/sitemap.html.gz
+Sitemap: https://tridenc.github.io/includes/sitemap.html.gz
+Sitemap: https://tridenc.github.io/item/sitemap.html.gz
+Sitemap: https://tridenc.github.io/src/sitemap.html.gz
